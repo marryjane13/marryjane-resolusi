@@ -5,3 +5,4 @@ RENCANA PEMBELAJARAN MARRYJANE
 - Mempelajari Javascript
   * Framework Javascript
     ^ Vue
+    ^ React
