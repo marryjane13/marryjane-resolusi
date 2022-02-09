@@ -3,3 +3,5 @@ RENCANA PEMBELAJARAN MARRYJANE
 - Mempelajari CSS
 - Mempelajari CSS Layouting
 - Mempelajari Javascript
+  * Framework Javascript
+    ^ Vue
