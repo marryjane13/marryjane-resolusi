@@ -2,6 +2,6 @@ RENCANA PEMBELAJARAN MARRYJANE
 - Mempelajari HTML
 - Mempelajari CSS
 - Mempelajari Javascript
-  * Mempelajari Framework
-    ^ Angular
+  * Framework Javascript
+    ^ Vue
     ^ React
